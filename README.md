@@ -3,16 +3,16 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Sheldon Tang`
+- **CCID:** `sktang`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-
+"Stack Overflow"
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `Sheldcn Tang`    | `sktang` |
+| `<Add more>` | `<CCID>`  |
 | `<Add more>` | `<CCID>`  |
